@@ -2,7 +2,7 @@
 
 Week 12 Dialogflow Chatbot.
 
-Inside the AiBot workspace , under the section apps add the app rocketelevatorbot. 
+Inside the Rocket Elevators workspace , under the section apps add the app Team Charles Bot. 
 
 You can then access the app and use the following commands to get the desired results.
 
